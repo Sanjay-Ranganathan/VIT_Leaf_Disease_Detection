@@ -1,0 +1,6 @@
+torch==2.2.0+cpu
+torchvision==0.17.0+cpu
+streamlit
+Pillow
+timm
+numpy

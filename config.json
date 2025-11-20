@@ -1,0 +1,5 @@
+{
+	"model_name":"vit_base_patch16_224",
+	"num_classes":7,
+	"class_names":["brinjal _cercospora leaf spot", "naval_healthy", "Lotus Rotting tubers", "Brinjal Tobacco mosaic virus", "Lotus nutrient deficiency  and rotting tubers", "naval_anthracnose", "naval_leaf_galls"]
+}
